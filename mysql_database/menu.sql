@@ -1,0 +1,10 @@
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (1, '综和权限管理', NULL, NULL, NULL, '<i class=\"fa fa-bar-chart-o fa-fw\"></i>');
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (2, '班海后台用户管理', NULL, '/admin/assignment/index', NULL, NULL);
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (3, '角色管理', 1, '/admin/role/index', 3, NULL);
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (4, '权限管理', 1, '/admin/permission/index', 3, NULL);
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (5, '路由管理', 1, '/admin/route/index', 4, NULL);
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (6, '规则管理', 1, '/admin/rule/index', 5, NULL);
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (7, '菜单管理', 1, '/admin/menu/index', 5, NULL);
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (101, '菜单列表', NULL, '/food/food-list/index', NULL, NULL);
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (102, '菜单详细列表', NULL, '/food/detailed-list/index', NULL, NULL);
+INSERT INTO `` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES (103, '视频列表', NULL, '/food/video/index', NULL, NULL);

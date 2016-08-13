@@ -1,0 +1,12 @@
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (2, 'http://192.168.1.25:8001/%E3%80%8A%E7%9B%B8%E9%80%A2%E3%80%8B.mp4', '相逢', 0, '/uploads/image/20160812/2016081218221557.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (3, 'http://192.168.1.25:8001/%E9%A5%AD%E8%A1%A5.mp4', '饭补危机', 0, '/uploads/image/20160812/20160812182303771.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (14, 'http://192.168.1.25:8001/夏威夷寿司.mp4', '夏威夷寿司', 0, '/uploads/image/20160813/20160813095603713.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (15, 'http://192.168.1.25:8001/舌尖上的武清.mp4', '舌尖上的武清', 0, '/uploads/image/20160813/20160813095746272.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (16, 'http://192.168.1.25:8001/舌尖上的中国时节.mp4', '舌尖上的中国时节', 0, '/uploads/image/20160813/20160813100550645.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (17, 'http://192.168.1.25:8001/啤酒鸡翅.mp4', '啤酒鸡翅', 0, '/uploads/image/20160813/20160813100834401.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (18, 'http://192.168.1.25:8001/迷你早餐煎蛋吐司培根.mp4', '煎蛋吐司培根', 0, '/uploads/image/20160813/20160813101136921.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (19, 'http://192.168.1.25:8001/迷你早餐蛋糕.mp4', '迷你早餐蛋糕', 0, '/uploads/image/20160813/20160813101644259.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (20, 'http://192.168.1.25:8001/快手水果早餐杯.mp4', '快手水果早餐杯', 0, '/uploads/image/20160813/20160813101959278.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (21, 'http://192.168.1.25:8001/可乐鸡翅.mp4', '可乐鸡翅', 0, '/uploads/image/20160813/20160813102527450.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (22, 'http://192.168.1.25:8001/潮汕美食.mp4', '潮汕美食', 0, '/uploads/image/20160813/20160813102609746.jpg');
+INSERT INTO `` (`id`, `video`, `describe`, `isDelete`, `image`) VALUES (23, 'http://192.168.1.25:8001/《三餐》.mp4', '三餐', 0, '/uploads/image/20160813/20160813104224431.jpg');
